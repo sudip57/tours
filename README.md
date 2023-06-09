@@ -33,10 +33,10 @@ npm start
 
 ## Screenshots
 Intial Page
-![tours1](https://github.com/sudip57/To-Do-List/assets/79646606/fb14a874-dfe9-4578-9222-deb58bfed391)
+![tours1](https://github.com/sudip57/To-Do-List/assets/79646606/9b913b79-f10c-4dda-9332-da5b29cfac5f)
 
 When we remove all the tours
-![tours2](https://github.com/sudip57/To-Do-List/assets/79646606/a92d4b81-cc82-440b-a835-a54ab464f86a)
+![tours2](https://github.com/sudip57/To-Do-List/assets/79646606/b368921d-1c2e-4399-bdff-9a2b4f6bfe72)
 
 ## Acknowledgements
 The API used in this app was provided by [Course API's](https://course-api.com/).
