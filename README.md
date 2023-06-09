@@ -1,4 +1,4 @@
-# React Todo App
+# React Tour App
 This is a tour app that fetches data from an API to display the best places to visit. It includes features such as a "Not Interested" button to remove specific tours, a "Load All" button to reload the removed tours, a loading text while data is being fetched, and a "Read More" option to show the full description of each tour. The app utilizes the `useState` and `useEffect` hooks for state management and API fetching.
 
 ## Features
